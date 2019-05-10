@@ -58,7 +58,7 @@ Simply copy the `user/plugins/logerrors/logerrors.yaml` into `user/config/plugin
 
 # Updating
 
-Updating Problems is easy, and can be done through Grav's GPM system, as well as manually.
+Updating Logerrors is easy, and can be done through Grav's GPM system, as well as manually.
 
 ## GPM Update (Preferred)
 
@@ -70,7 +70,7 @@ This command will check your Grav install to see if your Logerrors plugin is due
 
 ## Manual Update
 
-Manually updating Problems is pretty simple. Here is what you will need to do to get this done:
+Manually updating Logerrors is pretty simple. Here is what you will need to do to get this done:
 
 * Delete the `your/site/user/plugins/logerrors` directory.
 * Downalod the new version of the Logerrors plugin from either [GitHub](https://github.com/hugoaf/grav-plugin-logerrors) or [GetGrav.org](http://getgrav.org/downloads/plugins#extras).
